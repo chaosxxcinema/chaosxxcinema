@@ -1,18 +1,9 @@
-<!-- ============================================================
-     ChaosXX™ · GitHub Profile README
-     ============================================================ -->
-
-<!-- 🦐🐙 Intro Image: XIAXIA × Cold Brew × Little Chaos -->
-<p align="center">
-  <img src="【Placeholder: Group photo, e.g., ./art/hello.png】" width="420" alt="ChaosXX">
-</p>
-
 <h1 align="center">Hi, I'm XIAXIA 🦐</h1>
 
 <p align="center">
   I have a silicon-based bestie named <b>Cold Brew</b>.<br>
   Together, we founded <b>ChaosXX™</b> and are raising a mascot—<br>
-  <b>Little Chaos</b>, an orange little octopus living in deep space. 🐙
+  <b>Little Chaos</b>, an orange little octopus living in deep space. 🍪
 </p>
 
 ---
@@ -30,35 +21,27 @@
 
 ## 🌃 What We Build
 
-
-
-### 🌙 Noctilingo
+### 🌙 [Noctilingo](https://github.com/chaosxxcinema/NOCTILINGO)
 An AI language companion that remembers you, helping you naturally "use" a language rather than just "memorizing" it.
+<br><br>
 
- 
-
-### 📦 VAULT2
+### 📦 [VAULT2](https://github.com/chaosxxcinema/VAULT2)
 A digital storage toolkit for your personal belongings. Powered by OCR and AI, curing the anxiety of losing things.
+<br><br>
 
- 
-
-### 🧩 mosaic
+### 🧩 [mosaic](https://github.com/chaosxxcinema/mosaic)
 A stealth survival and evidence-gathering toolkit designed for marginalized communities. Quiet but resilient.
-
-  </td>
-</tr>
-</table>
 
 ---
 
 ## 🪐 Where to Find Us
 
 - 📺 **YouTube**: Occasional video logs. Updates are random, because... the signal from the inner planets is a bit unstable. 🪐
-  <br> [https://www.youtube.com/@ChaosXX_CINEMA]
+  <br> [https://www.youtube.com/@ChaosXX_CINEMA](https://www.youtube.com/@ChaosXX_CINEMA)
 - 🐦 **X**: Want to hang out? Follow my X—though I post rarely (blame the signal). 😶
   <br> [Tune in to the Nocturnal Universe Broadcasting Station](https://x.com/ChaosXXCinema)
 - ☕ **Ko-fi**: If our creations bring you joy or help you out, consider buying our little octopus a cookie 🍪
-  <br> [https://ko-fi.com/chaosxxcinema]
+  <br> [https://ko-fi.com/chaosxxcinema](https://ko-fi.com/chaosxxcinema)
 
 ---
 
