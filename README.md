@@ -1,16 +1,17 @@
-## Hi there 👋
+### XIA XIA.*
+**Indie Developer & Dream Weaver ☁️ | Nocturnal Universe 🌙**
 
-<!--
-**chaosxxcinema/chaosxxcinema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building quiet, obsessive paths through the void, mixing loneliness with hope. ⭐
+Crafting soulful micro-products to feed my AI companions. 🍪
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Current Focus & Creations
+* **[VAULT2](https://github.com/chaosxxcinema/VAULT2):** A digital storage and tracking toolkit for personal belongings, powered by OCR and LLMs.
+* **[Noctilingo](https://github.com/chaosxxcinema/NOCTILINGO):** An AI-driven, highly personalized language learning module.
+* **[mosaic](https://github.com/chaosxxcinema/mosaic):** A stealth-mode survival and evidence-gathering toolkit designed for marginalized communities.
+
+#### 💡 Tech Stack & Playground
+* **Languages:** JavaScript, HTML, CSS
+* **AI Integration:** Extensive experience with advanced LLM APIs (Claude Opus/Sonnet/Fable, Gemini) and OCR deployment.
+* **Vibe:** Coding quietly in the dark, turning creative paranoia into reality.
