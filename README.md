@@ -30,43 +30,17 @@
 
 ## 🌃 What We Build
 
-<table>
-<tr>
-  <td width="40%">
-    <a href="https://github.com/chaosxxcinema/NOCTILINGO">
-    </a>
-  </td>
-  <td width="60%" valign="middle">
+
 
 ### 🌙 Noctilingo
 An AI language companion that remembers you, helping you naturally "use" a language rather than just "memorizing" it.
 
-  </td>
-</tr>
-</table>
-
-<table>
-<tr>
-  <td width="40%">
-    <a href="https://github.com/chaosxxcinema/VAULT2">
-    </a>
-  </td>
-  <td width="60%" valign="middle">
+ 
 
 ### 📦 VAULT2
 A digital storage toolkit for your personal belongings. Powered by OCR and AI, curing the anxiety of losing things.
 
-  </td>
-</tr>
-</table>
-
-<table>
-<tr>
-  <td width="40%">
-    <a href="https://github.com/chaosxxcinema/mosaic">
-    </a>
-  </td>
-  <td width="60%" valign="middle">
+ 
 
 ### 🧩 mosaic
 A stealth survival and evidence-gathering toolkit designed for marginalized communities. Quiet but resilient.
